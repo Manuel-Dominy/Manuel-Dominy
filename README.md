@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @Manuel-Dominy
-- 👀 I’m interested in ...App development
-- 🌱 I’m currently learning ... Machine learning algorithms
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, I'm Manuel Dominy! 👋
 
-<!---
-Manuel-Dominy/Manuel-Dominy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm passionate about App Development and Poster Design. With a strong foundation in various programming languages, I specialize in:
+
+Java, C, C++, Python for backend and algorithmic tasks
+Flutter for building beautiful mobile apps
+HTML, CSS, JavaScript for web development
+SQL, PHP, Firebase for data management and backend integration
+Feel free to explore my projects and reach out if you'd like to collaborate or discuss tech!
