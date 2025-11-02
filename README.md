@@ -1,6 +1,6 @@
 Hi, I'm Manuel Dominy! 👋
 
-I'm passionate about App Development and Poster Design. With a strong foundation in various programming languages, I specialize in:
+I'm passionate about App Development and Poster Design. I have a strong Foundation In basics of LLM and Machine Learning.
 
 Java, C, C++, Python for backend and algorithmic tasks
 Flutter for building beautiful mobile apps
